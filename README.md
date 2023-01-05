@@ -21,10 +21,10 @@ following the directions given in the lessons for this module.
 3. Javascript
 
 # Link To Website
-<a href=" https://joker282855.github.io/git-it-done/">Website Link</a>
+<a href="https://joker282855.github.io/git-it-done/">Website Link</a>
 
 # Screenshot of Website
-<img src="./assests/images/repository.jpg" alt="Screenshot Of Website" />
+<img src="./assets/images/repository.jpg" alt="Screenshot Of Website" />
 
 # Contributors
 Josh Jackson
